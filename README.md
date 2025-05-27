@@ -191,7 +191,7 @@ Click **Install Now!**
 
 ---
 
-## Links we will use for the lab
+## Links we will use for [Post-Installation Configuration](https://github.com/Sophia-Torres/osticket-postinstall)
 
 - Admin Portal:  
   `http://localhost/osTicket/scp/login.php`
